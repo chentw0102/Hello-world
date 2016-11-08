@@ -23,3 +23,6 @@ Ruby：https://github.com/ruby/ruby
 全球顶级编程大牛加入GitHub
 
 Linux 发明者 Linus Torvalds：https://github.com/torvalds
+
+
+被称为「Android之神」的 JakeWharton：https://github.com/JakeWharton ， 你们用的很多开源库如 ButterKnife、OkHttp、 Retrofit、 Picasso、ViewPagerIndicator 等都是出自他之手！
