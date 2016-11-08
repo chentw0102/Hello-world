@@ -10,7 +10,8 @@ Twitter：https://github.com/twitter
 微软：https://github.com/microsoft
 Square：https://github.com/square
 阿里：https://github.com/alibaba
-…
+
+
 全球顶级开源项目都优先选择在 GitHub 上开源
 
 Linux：https://github.com/torvalds/linux
@@ -19,7 +20,8 @@ Nodejs：https://github.com/nodejs/node
 Swift：https://github.com/apple/swift
 CoffeeScript：https://github.com/jashkenas/coffeescript
 Ruby：https://github.com/ruby/ruby
-…
+
+
 全球顶级编程大牛加入GitHub
 
 Linux 发明者 Linus Torvalds：https://github.com/torvalds
